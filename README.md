@@ -49,11 +49,14 @@ Este projeto é composto por dois scripts principais que monitoram e alertam sob
    ```bash
    python alert.py
 
-**Arquivos do Projeto**:
-    - alert.py
-    Este script é responsável pelo monitoramento de terremotos na região da Tailândia. Ele faz requisições para a API de terremotos da USGS e, ao encontrar um terremoto com magnitude superior a 3.0, envia uma notificação para os usuários registrados via SMS (Twilio) e Telegram.
+### Arquivos do Projeto
 
-**Funções principais**:
+    `alert.py`
+    <p>
+        Este script é responsável pelo monitoramento de terremotos na região da Tailândia. Ele faz requisições para a API de terremotos da USGS e, ao encontrar um terremoto com magnitude superior a 3.0, envia uma notificação para os usuários registrados via SMS (Twilio) e Telegram.
+    </p>
+
+### Funções principais:
 
     - executar_alerta(): Verifica os terremotos e envia alertas.
 
@@ -62,7 +65,9 @@ Este projeto é composto por dois scripts principais que monitoram e alertam sob
     - monitoramento(): Monitora terremotos em intervalos regulares de 2 minutos.
 
 **thaiquakebot.py**
-    Este script é responsável pelo bot de Telegram que permite aos usuários se registrarem para receber alertas de terremotos e se desregistrarem, caso desejem.
+    <p>
+        Este script é responsável pelo bot de Telegram que permite aos usuários se registrarem para receber alertas de terremotos e se desregistrarem, caso desejem.
+    </p>
 
     - Funções principais:
 
