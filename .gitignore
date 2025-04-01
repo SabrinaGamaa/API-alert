@@ -1,0 +1,4 @@
+.env
+users.json
+terremotos_alertados.json
+__pycache__/
