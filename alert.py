@@ -115,7 +115,7 @@ async def executar_alerta():
 
             # Se evento_id já está no historico, quer dizer que as mensagens já foram enviadas!
             if evento_id not in historico:
-                time = datetime.fromtimestamp(evento['properties']['time'] / 1000).strftime('%Y-%m-%d T%H:%M:%S %z')
+                time = datetime.fromtimestamp(evento['properties']['time'] / 1000, tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
                 mag = evento['properties']['mag']
                 loc = evento['properties']['place']
                 link = evento['properties']['url']
