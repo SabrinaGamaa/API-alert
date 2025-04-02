@@ -109,5 +109,3 @@ Quando um terremoto é detectado, a mensagem de alerta enviada será parecida co
 ## Contribuições
 Sinta-se à vontade para fazer contribuições, melhorias ou correções! Se você encontrar algum bug ou tiver sugestões, por favor, abra uma issue ou envie um pull request.
 
-## Licença
-Este projeto está licenciado sob a **MIT License**.
