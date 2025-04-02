@@ -106,6 +106,11 @@ Quando um terremoto é detectado, a mensagem de alerta enviada será parecida co
 🔗 Mais informações: https://earthquake.usgs.gov/earthquakes/eventpage/us7000y5a
 ```
 
+<div align="center">
+   <img src="imagens/twilio.jpeg" style="width: 80%; width: 500px;" />
+   <img src="imagens/telegram.jpeg" style="width: 80%; width: 500px;" />
+</div>
+
 ## Contribuições
 Sinta-se à vontade para fazer contribuições, melhorias ou correções! Se você encontrar algum bug ou tiver sugestões, por favor, abra uma issue ou envie um pull request.
 
