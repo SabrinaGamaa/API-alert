@@ -107,8 +107,8 @@ Quando um terremoto é detectado, a mensagem de alerta enviada será parecida co
 ```
 
 <div align="center">
-   <img src="imagens/twilio.jpeg" style="width: 80%; width: 500px;" />
-   <img src="imagens/telegram.jpeg" style="width: 80%; width: 500px;" />
+   <img src="imagens/twilio.jpeg" style="width: 400px;" />
+   <img src="imagens/telegram.jpeg" style="width: 400px;" />
 </div>
 
 ## Contribuições
